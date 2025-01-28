@@ -3,7 +3,6 @@
   "description": "A PHP SDK for interacting with the Ollama API.",
   "license": "MIT",
   "type": "package",
-  "version": "0.0.1",
   "keywords": [
     "php","ollama","api"
   ],
